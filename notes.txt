@@ -24,7 +24,7 @@ ANSWER: <title>
 
 What does that tag do?
 
-ANSWER: it adds the page title that shows on the broswer's tab
+ANSWER: it adds the page title that shows on the broswer's tab.
 
 ======================================================================
 
